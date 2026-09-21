@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=fakeyourdeath&color=0d0c0c&style=plastic&label=♡)
 
 <div align="center"> 
-  <a href="https://cartoonjax.atabook.org" target="_blank">ata</a>
+  <a href="https://dictatorgerard.straw.page" target="_blank">strawpage</a>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
