@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=fakeyourdeath&color=0d0c0c&style=plastic&label=♡)
 
 <div align="center"> 
-  <a href="https://dictatorgerard.straw.page" target="_blank">strawpage</a> <a href="https://secretary.atabook.org" target="_blank">atabook</a>
+  <a href="https://bringmorebullets.straw.page" target="_blank">depop strawpage</a>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -23,4 +23,4 @@
 <img width="99" height="55" alt="da1nxnk-21467b39-cd2a-4020-9ed3-56c7f76de07f" src="https://github.com/user-attachments/assets/ec7c0041-fcc5-452f-aac5-fe40879a84a5" />
 
 <div align="center"> 
-  <a href="https://bringmorebullets.straw.page" target="_blank">depop strawpage</a>
+  <a href="https://dictatorgerard.straw.page" target="_blank">strawpage</a> <a href="https://secretary.atabook.org" target="_blank">atabook</a>
